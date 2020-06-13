@@ -1,3 +1,6 @@
 """The following variables are the base variables:
-    baseSheets, freSheets, baseVern, nexVern, backTrackProb, creaProb, fallToProb, pingOnto, revealText, tx
+    baseSheets, freSheets, baseVern, nexVern, backTrackProb, creaProb, fallToProb,
+    pingOnto, revealText, tx.
+    
+    pingOnto is a deterministic variable which causes the neural network to zone in onto a new input.
 """
